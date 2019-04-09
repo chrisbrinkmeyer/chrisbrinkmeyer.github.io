@@ -1,0 +1,64 @@
+h1{
+    color:darkslategray;
+    text-align: center;
+    font-family: century gothic, sans-serif;
+
+}
+h4{
+    color:darkslategray;
+    text-align: center;
+    font-family: century gothic, sans-serif;
+    font-size: 35px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:70%;
+}
+.jumbotron {
+    width: 80%;
+    height: 80vh;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("/assets/background.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: century gothic, corbel, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 24px;
+    padding-top: 50px;
+    text-shadow: 2px 2px black
+}
+.text{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    text-align: justify;
+    font-family: century gothic, sans-serif;
+}
+
+.contact{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgray;
+    text-align: center;
+    font-size: 20px;
+    list-style-type: none;
+    border-style: solid;
+}
+
+.portfolio{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bikemap{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
